@@ -1,0 +1,7 @@
+com\rarantes\library\rmi\service\BookService$1.class
+com\rarantes\library\rmi\model\Book.class
+com\rarantes\library\rmi\service\BookService.class
+com\rarantes\library\rmi\ILibrary.class
+com\rarantes\library\rmi\LibraryServer.class
+com\rarantes\library\rmi\LibraryClient.class
+com\rarantes\library\rmi\LibraryImple.class
